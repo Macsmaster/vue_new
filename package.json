@@ -1,0 +1,15 @@
+{
+  "name": "asincrono",
+  "version": "1.0.0",
+  "description": "practica de asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "callbacks, promesas, async"
+  },
+  "author": "Miguel Coy",
+  "license": "ISC"
+}
